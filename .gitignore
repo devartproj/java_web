@@ -65,3 +65,4 @@ build/
 
 /src/main/resources/db_config.json
 >>>>>>> 7e84ea5 (Initial commit)
+.env
